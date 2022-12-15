@@ -48,10 +48,10 @@ Make sure to check off your items as you complete them. [ ] → [x]
 </br>
 
 ### Conditionals
-7. [ ] Create a conditional statement for the responses to Question 1 based on the user input.
+7. [X] Create a conditional statement for the responses to Question 1 based on the user input.
 </br>
 
-8. [ ] Create a conditional statement for the responses to Question 2 based on the user input.
+8. [X] Create a conditional statement for the responses to Question 2 based on the user input.
 </br>
 
 9. [ ] Create a conditional statement for the responses to Question 3 based on the user input.
