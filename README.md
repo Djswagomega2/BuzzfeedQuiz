@@ -1,4 +1,4 @@
-# FLW 01.P Code Nation's Buzzfeed Quiz! [Light]
+# FLW 01.P Code Nation's Buzzfeed Quiz!
 
 ## Project Description
 Using JavaScript skills, you will build a quiz app that will determine what you want! Could be a character quiz, which tech company are you quiz, or this is the type of cheese you are quiz! 
